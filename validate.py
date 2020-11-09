@@ -29,7 +29,7 @@ from __future__ import absolute_import, unicode_literals
 
 import warnings
 
-from configobj.validate import *
+from src.validate import *
 
 # version of the shim, just to satisfy the old API surface
 __version__ = '1.1.0'
